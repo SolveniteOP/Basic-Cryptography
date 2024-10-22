@@ -49,7 +49,9 @@ This project requires Python 3.x to run. You can download Python from the offici
 Example of Base64 encoding/decoding:
 
 Enter the data: HelloWorld
+
 Base64 Encoded: SGVsbG9Xb3JsZA==
+
 Base64 Decoded: HelloWorld
 
 # Contribution
