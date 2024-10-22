@@ -39,10 +39,10 @@ Cryptography Encoder/Decoder:
 6. Hexdump
 7. Exit
 
-Select an option (1-7):
+# Select an option (1-7):
 After selecting an option and entering your text, the program will output both the encoded and decoded versions of the data.
 
-Prerequisites
+# Prerequisites
 This project requires Python 3.x to run. You can download Python from the official website.
 
 ## Example
