@@ -17,23 +17,19 @@ A Python project that provides simple encoding and decoding functionalities for 
 
    ```bash
    git clone https://github.com/SolveniteOPcryptography-encoder-decoder.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-Copy code
 cd cryptography-encoder-decoder
-Run the Python script:
 
-bash
-Copy code
+3. Run the Python script:
+
 python Cryptography.py
-Choose an encoding/decoding option from the list and input the data you want to transform.
 
-Sample Output
+4. Choose an encoding/decoding option from the list and input the data you want to transform.
+
+# Sample Output
 When you run the script, you'll see a menu like this:
 
-markdown
-Copy code
 Cryptography Encoder/Decoder:
 1. Base64
 2. Hex
@@ -49,21 +45,20 @@ After selecting an option and entering your text, the program will output both t
 Prerequisites
 This project requires Python 3.x to run. You can download Python from the official website.
 
-Example
+## Example
 Example of Base64 encoding/decoding:
 
-yaml
-Copy code
 Enter the data: HelloWorld
 Base64 Encoded: SGVsbG9Xb3JsZA==
 Base64 Decoded: HelloWorld
 Contribution
-Feel free to fork this project and submit pull requests if you want to contribute new features or improve the code.
+If you want to contribute new features or improve the code, feel free to fork this project and submit pull requests.
 
 Fork the project.
 Create your feature branch: git checkout -b feature/AmazingFeature
 Commit your changes: git commit -m 'Add some amazing feature'
 Push to the branch: git push origin feature/AmazingFeature
 Open a pull request.
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for more details.
