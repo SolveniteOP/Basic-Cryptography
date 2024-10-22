@@ -16,7 +16,7 @@ A Python project that provides simple encoding and decoding functionalities for 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/SolveniteOPcryptography-encoder-decoder.git
+   git clone https://github.com/SolveniteOP/cryptography-encoder-decoder.git
 2. Navigate to the project directory:
 
 cd cryptography-encoder-decoder
