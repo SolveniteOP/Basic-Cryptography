@@ -19,11 +19,11 @@ A Python project that provides simple encoding and decoding functionalities for 
    git clone https://github.com/SolveniteOP/cryptography-encoder-decoder.git
 2. Navigate to the project directory:
 
-cd cryptography-encoder-decoder
+```cd cryptography-encoder-decoder```
 
 3. Run the Python script:
 
-python Cryptography.py
+```python Cryptography.py```
 
 4. Choose an encoding/decoding option from the list and input the data you want to transform.
 
