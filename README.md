@@ -45,13 +45,14 @@ After selecting an option and entering your text, the program will output both t
 # Prerequisites
 This project requires Python 3.x to run. You can download Python from the official website.
 
-## Example
+# Example
 Example of Base64 encoding/decoding:
 
 Enter the data: HelloWorld
 Base64 Encoded: SGVsbG9Xb3JsZA==
 Base64 Decoded: HelloWorld
-Contribution
+
+# Contribution
 If you want to contribute new features or improve the code, feel free to fork this project and submit pull requests.
 
 Fork the project.
