@@ -54,14 +54,5 @@ Base64 Encoded: SGVsbG9Xb3JsZA==
 
 Base64 Decoded: HelloWorld
 
-# Contribution
-If you want to contribute new features or improve the code, feel free to fork this project and submit pull requests.
-
-Fork the project.
-Create your feature branch: git checkout -b feature/AmazingFeature
-Commit your changes: git commit -m 'Add some amazing feature'
-Push to the branch: git push origin feature/AmazingFeature
-Open a pull request.
-
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
